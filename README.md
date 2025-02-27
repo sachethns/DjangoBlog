@@ -1,0 +1,1 @@
+A simple blog application built with Django, featuring user authentication, post creation, editing, and deletion. Users can register, log in, and manage their own blog posts, while the homepage displays all published posts. The app uses Django's ORM for database management and Bootstrap for a responsive UI.
